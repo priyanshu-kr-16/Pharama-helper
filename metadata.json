@@ -1,0 +1,5 @@
+{
+  "name": "PharmHelper",
+  "description": "A resource sharing platform for pharmacy students at SRMIST Delhi-NCR, featuring PYQs, notes, and CT papers.",
+  "requestFramePermissions": []
+}
